@@ -44,6 +44,7 @@ Mapping App    </description>
     <!-- Plugins -->
 
     <!-- Core plugins -->
+       <plugin name="org.apache.cordova.geolocation" spec="0.3.12" source="pgb" />
     <gap:plugin name="org.apache.cordova.battery-status" />
     <gap:plugin name="org.apache.cordova.camera" />
     <gap:plugin name="org.apache.cordova.media-capture" />
